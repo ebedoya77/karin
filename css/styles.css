@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Grape Nuts', cursive;
+}
+
+.gradient {
+    background: rgb(0,97,242);
+    background: linear-gradient(135deg,
+     rgba(36,0,15,0.5662640056022409) 0%,
+     rgba(121,9,109,1) 88%, rgba(0,212,255,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem ;
+    font-size: 1,25rem;
+    color: #fff;
+}
+.feature {
+    color: #fff;
+
+}
